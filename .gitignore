@@ -1,0 +1,10 @@
+*
+
+!*/
+!*.py
+!*.ipynb
+!*.md
+!*.txt
+!.gitignore
+
+.ipynb_checkpoints

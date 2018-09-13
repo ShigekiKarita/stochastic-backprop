@@ -1,0 +1,4 @@
+chainer==5.0.0b4
+gym==0.10.5
+matplotlib==2.2.2
+notebook==5.4.1
